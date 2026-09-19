@@ -20,6 +20,6 @@ Proyectos y publicaciones técnicas de [John D. Gómez](https://github.com/johnd
 
 ## Trayectoria y contacto
 
-[Sitio profesional](https://johndgomez.com/) · [Perfil individual](https://github.com/johndgomezh) · [LinkedIn](https://www.linkedin.com/in/johndgomezh/)
+[Sitio profesional](https://johndgomez.com/) · [Perfil individual](https://github.com/johndgomezh) · [LinkedIn](https://www.linkedin.com/in/johndgomezh/) · [Resumen profesional (PDF)](https://assets.johndgomez.com/current/document/overview/spanish/pdf/overview.pdf)
 
 [Consultas profesionales](mailto:contact@johndgomez.com) · [Conversaciones laborales](mailto:career@johndgomez.com)
