@@ -1,4 +1,8 @@
-# John D. Gómez
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://assets.johndgomez.com/current/identity/wordmark/negative/vector/wordmark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://assets.johndgomez.com/current/identity/wordmark/positive/vector/wordmark.svg">
+  <img alt="John D. Gómez" src="https://assets.johndgomez.com/current/identity/wordmark/positive/vector/wordmark.svg" width="560">
+</picture>
 
 [Español](README.es.md)
 
