@@ -1,5 +1,5 @@
 <picture>
-  <img alt="John D. Gómez — diseño y evolución de software empresarial" src="https://assets.johndgomez.com/current/profiles/github/organization/png/banner.png" width="1280">
+  <img alt="John D. Gómez — diseño y evolución de software empresarial" src="https://assets.johndgomez.com/archive/5.0.0/profiles/github/organization/png/banner.png" width="1280" height="480">
 </picture>
 
 [English](README.md)
@@ -18,6 +18,6 @@ Proyectos y publicaciones técnicas de [John D. Gómez](https://github.com/johnd
 
 ## Trayectoria y contacto
 
-[Sitio profesional](https://johndgomez.com/) · [Publicaciones](https://blog.johndgomez.com/) · [Seguir el blog](https://feeds.johndgomez.com/languages/es-CO.xml) · [Perfil individual](https://github.com/johndgomezh) · [LinkedIn](https://www.linkedin.com/in/johndgomezh/) · [Resumen profesional (PDF)](https://assets.johndgomez.com/current/document/overview/spanish/pdf/overview.pdf)
+[Sitio profesional](https://johndgomez.com/) · [Publicaciones](https://blog.johndgomez.com/) · [Seguir el blog](https://feeds.johndgomez.com/languages/es-CO.xml) · [Perfil individual](https://github.com/johndgomezh) · [LinkedIn](https://www.linkedin.com/in/johndgomezh/) · [Resumen profesional (PDF)](https://assets.johndgomez.com/archive/5.0.0/document/overview/spanish/pdf/overview.pdf)
 
 [Consultas profesionales](mailto:contact@johndgomez.com) · [Conversaciones laborales](mailto:career@johndgomez.com)
