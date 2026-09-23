@@ -1,5 +1,5 @@
 <picture>
-  <img alt="John D. Gómez — enterprise software design and evolution" src="https://assets.johndgomez.com/archive/5.0.0/profiles/github/organization/png/banner.png" width="1280" height="480">
+  <img alt="John D. Gómez — enterprise software design and evolution" src="https://assets.johndgomez.com/archive/5.0.0/profiles/github/organization/png/banner.png" width="1280">
 </picture>
 
 [Español](README.es.md)
