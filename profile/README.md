@@ -1,5 +1,5 @@
 <picture>
-  <img alt="John D. Gómez — enterprise software design and evolution" src="https://assets.johndgomez.com/archive/6.0.0/profiles/github/organization/png/banner.png" width="1280">
+  <img alt="John D. Gómez — enterprise software design and evolution" src="https://assets.johndgomez.com/archive/6.1.0/profiles/github/organization/png/banner.png" width="1280">
 </picture>
 
 [Español](README.es.md)
@@ -21,3 +21,5 @@ Technical projects and publications by [John D. Gómez](https://github.com/johnd
 [Professional website](https://johndgomez.com/en/) · [Publications](https://blog.johndgomez.com/en/) · [Follow the blog](https://feeds.johndgomez.com/languages/en.xml) · [Individual profile](https://github.com/johndgomezh) · [LinkedIn](https://www.linkedin.com/in/johndgomezh/) · [Professional overview (PDF)](https://assets.johndgomez.com/archive/6.0.0/document/overview/english/pdf/overview.pdf)
 
 [Professional inquiries](mailto:contact@johndgomez.com) · [WhatsApp](https://wa.me/573125916081) · [Career conversations](mailto:career@johndgomez.com)
+
+WhatsApp or Telegram messages: +57 312 591 6081. Please message me first with your name, company and reason for contacting me. Calls are arranged beforehand.
